@@ -8,3 +8,5 @@ resource "amazon_instnces" "ec2" {
 }
 
 
+
+
