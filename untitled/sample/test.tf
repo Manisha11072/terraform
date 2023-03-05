@@ -6,3 +6,5 @@ resource "amazon_instnces" "ec2" {
    name = "test"
  }
 }
+
+
